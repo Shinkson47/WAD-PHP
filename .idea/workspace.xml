@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="42354d42-5cf4-45f0-9969-b07a21c24022" name="Default Changelist" comment="" />
+    <list default="true" id="42354d42-5cf4-45f0-9969-b07a21c24022" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_scripts/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/var/session/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/var/upload/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/var/wsdl-cache/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xdebug/profile/git-blank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xdebug/trace/git-blank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +39,33 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hEbpuQI70amVmDAKcl29qIbLnn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xdebug/trace" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xdebug/trace" />
+      <recent name="$PROJECT_DIR$/xdebug/profile" />
+      <recent name="$PROJECT_DIR$/var/wsdl-cache" />
+      <recent name="$PROJECT_DIR$/var/upload" />
+      <recent name="$PROJECT_DIR$/var/session" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public_php/lab_01" />
     </key>
@@ -36,14 +80,37 @@
       <updated>1599579385822</updated>
       <workItem from="1599579387496" duration="9000" />
       <workItem from="1600768769464" duration="141000" />
-      <workItem from="1601906422288" duration="829000" />
+      <workItem from="1601906422288" duration="1353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="987" y="538" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601907806577">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="987" y="538" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1413@0.23.2560.1413" timestamp="1601907806577" />
+    <state x="1149" y="633" width="436" height="192" key="Github.ShareDialog" timestamp="1601907644871">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="1149" y="633" width="436" height="192" key="Github.ShareDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1601907644871" />
+    <state x="993" y="441" key="Github.UntrackedFilesDialog" timestamp="1601907652283">
+      <screen x="0" y="23" width="2560" height="1413" />
+    </state>
+    <state x="993" y="441" key="Github.UntrackedFilesDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1601907652283" />
     <state x="1082" y="650" key="NewPhpFileDialog" timestamp="1601907023280">
       <screen x="0" y="0" width="2560" height="1436" />
     </state>
