@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42354d42-5cf4-45f0-9969-b07a21c24022" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public_php/lab_01/classTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_php/lab_02/variables.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_php/lab_02/vars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_php/lab_02/Array.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_php/lab_02/variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_php/lab_02/variables.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/xdebug/trace" />
@@ -86,7 +86,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="42354d42-5cf4-45f0-9969-b07a21c24022" name="Default Changelist" comment="" />
@@ -98,6 +101,8 @@
       <workItem from="1600768769464" duration="141000" />
       <workItem from="1601906422288" duration="4799000" />
       <workItem from="1602498040167" duration="5636000" />
+      <workItem from="1602588192906" duration="136000" />
+      <workItem from="1602589493811" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="Added blanking files to force empty directories to sync with vcs">
       <created>1601907863342</created>
@@ -110,7 +115,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -145,6 +150,10 @@
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
     <state x="987" y="538" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1413@0.23.2560.1413" timestamp="1601907806577" />
+    <state x="1075" y="277" key="FileChooserDialogImpl" timestamp="1602588323956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1075" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602588323956" />
     <state x="1149" y="633" width="436" height="192" key="Github.ShareDialog" timestamp="1601907644871">
       <screen x="0" y="23" width="2560" height="1413" />
     </state>
@@ -177,9 +186,10 @@
       <screen x="0" y="0" width="2560" height="1436" />
     </state>
     <state x="885" y="453" key="NewPhpClassDialog/0.0.2560.1436@0.0.2560.1436" timestamp="1601909241470" />
-    <state x="1082" y="650" key="NewPhpFileDialog" timestamp="1602498521198">
-      <screen x="0" y="0" width="2560" height="1436" />
+    <state x="812" y="471" key="NewPhpFileDialog" timestamp="1602589608302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="812" y="471" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602589608302" />
     <state x="1082" y="650" key="NewPhpFileDialog/0.0.2560.1436@0.0.2560.1436" timestamp="1602498521198" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1601908489052">
       <screen x="0" y="0" width="2560" height="1436" />
