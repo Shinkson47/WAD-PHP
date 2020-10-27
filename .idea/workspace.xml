@@ -16,19 +16,12 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42354d42-5cf4-45f0-9969-b07a21c24022" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public_php/lab_02/Months.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_php/lab_03/ConflictingMath.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_php/lab_02/Array.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_php/lab_02/Array.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +33,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hEbpuQI70amVmDAKcl29qIbLnn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,7 +85,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="42354d42-5cf4-45f0-9969-b07a21c24022" name="Default Changelist" comment="" />
@@ -182,9 +179,10 @@
       <screen x="0" y="0" width="2560" height="1436" />
     </state>
     <state x="885" y="453" key="NewPhpClassDialog/0.0.2560.1436@0.0.2560.1436" timestamp="1601909241470" />
-    <state x="1082" y="663" key="NewPhpFileDialog" timestamp="1602662625354">
-      <screen x="0" y="23" width="2560" height="1413" />
+    <state x="812" y="471" key="NewPhpFileDialog" timestamp="1603800761913">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="812" y="471" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603800761913" />
     <state x="1082" y="650" key="NewPhpFileDialog/0.0.2560.1436@0.0.2560.1436" timestamp="1602498521198" />
     <state x="1082" y="663" key="NewPhpFileDialog/0.23.2560.1413@0.23.2560.1413" timestamp="1602662625354" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1601908489052">
