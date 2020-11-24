@@ -1,0 +1,70 @@
+[27-Oct-2020 12:06:00 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[27-Oct-2020 12:06:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[27-Oct-2020 12:06:00 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[27-Oct-2020 12:06:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:05:35 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[24-Nov-2020 12:05:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:05:35 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[24-Nov-2020 12:05:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:27:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function xdebug_start_trace() in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php:25
+Stack trace:
+#0 {main}
+  thrown in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php on line 25
+[24-Nov-2020 12:30:45 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[24-Nov-2020 12:30:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:30:46 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[24-Nov-2020 12:30:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:30:49 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function xdebug_start_trace() in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php:25
+Stack trace:
+#0 {main}
+  thrown in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php on line 25
+[24-Nov-2020 12:30:49 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function xdebug_start_trace() in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php:25
+Stack trace:
+#0 {main}
+  thrown in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php on line 25
+[24-Nov-2020 12:31:08 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[24-Nov-2020 12:31:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:31:08 UTC] PHP Warning:  Failed to load H:\p3t\phpappfolder\xdebug\php_xdebug-2.9.6-7.4-vc15-x86_64.dll, The system cannot find the file specified.
+ in Unknown on line 0
+[24-Nov-2020 12:31:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xml' (tried: c:/user/php/ext/php_xml (The specified module could not be found.), c:/user/php/ext/php_php_xml.dll (The specified module could not be found.)) in Unknown on line 0
+[24-Nov-2020 12:33:32 Europe/London] PHP Notice:  PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'user_agent' at row 1 in H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php:82
+Stack trace:
+#0 H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php(82): PDOStatement->execute(Array)
+#1 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultModel.php(125): DatabaseWrapper->safeQuery('INSERT INTO use...', Array)
+#2 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultController.php(71): ResultModel->storeUserData()
+#3 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultController.php(39): ResultController->processInputValues()
+#4 H:\p3t\phpappfolder\includes\simple_sums\classes\Router.php(115): ResultController->createOutput()
+#5 H:\p3t\phpappfolder\includes\simple_sums\classes\Router.php(46): Router->selectController()
+#6 H:\p3t\phpappfolder\includes\simple_sums\bootstrap.php(26): Router->routing()
+#7 H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php(24): require_once('H:\ in H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php on line 95
+[24-Nov-2020 12:36:59 Europe/London] PHP Notice:  PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'user_agent' at row 1 in H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php:82
+Stack trace:
+#0 H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php(82): PDOStatement->execute(Array)
+#1 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultModel.php(125): DatabaseWrapper->safeQuery('INSERT INTO use...', Array)
+#2 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultController.php(71): ResultModel->storeUserData()
+#3 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultController.php(39): ResultController->processInputValues()
+#4 H:\p3t\phpappfolder\includes\simple_sums\classes\Router.php(115): ResultController->createOutput()
+#5 H:\p3t\phpappfolder\includes\simple_sums\classes\Router.php(46): Router->selectController()
+#6 H:\p3t\phpappfolder\includes\simple_sums\bootstrap.php(26): Router->routing()
+#7 H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php(24): require_once('H:\ in H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php on line 95
+[24-Nov-2020 12:38:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function xdebug_start_trace() in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php:25
+Stack trace:
+#0 {main}
+  thrown in H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php on line 25
+[24-Nov-2020 12:39:09 Europe/London] PHP Notice:  PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'user_agent' at row 1 in H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php:82
+Stack trace:
+#0 H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php(82): PDOStatement->execute(Array)
+#1 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultModel.php(125): DatabaseWrapper->safeQuery('INSERT INTO use...', Array)
+#2 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultController.php(71): ResultModel->storeUserData()
+#3 H:\p3t\phpappfolder\includes\simple_sums\classes\ResultController.php(39): ResultController->processInputValues()
+#4 H:\p3t\phpappfolder\includes\simple_sums\classes\Router.php(115): ResultController->createOutput()
+#5 H:\p3t\phpappfolder\includes\simple_sums\classes\Router.php(46): Router->selectController()
+#6 H:\p3t\phpappfolder\includes\simple_sums\bootstrap.php(26): Router->routing()
+#7 H:\p3t\phpappfolder\public_php\lab_07\simple_sums\index.php(25): require_once('H:\ in H:\p3t\phpappfolder\includes\simple_sums\classes\DatabaseWrapper.php on line 95
